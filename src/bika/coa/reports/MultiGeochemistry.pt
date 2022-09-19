@@ -33,7 +33,7 @@
         </div>
         <input tal:attributes="value attachments_per_row"
                type="number"
-               class="form-control"
+               class="form-controlYEsYEsYEs"
                name="attachments_per_row"
                min="1"/>
       </div>
